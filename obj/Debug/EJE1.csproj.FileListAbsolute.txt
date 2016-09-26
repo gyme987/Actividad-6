@@ -1,0 +1,6 @@
+C:\Users\gymena\Documents\SharpDevelop Projects\EJE1\EJE1\obj\Debug\EJE1.csprojResolveAssemblyReference.cache
+C:\Users\gymena\Documents\SharpDevelop Projects\EJE1\EJE1\bin\Debug\EJE1.exe.config
+C:\Users\gymena\Documents\SharpDevelop Projects\EJE1\EJE1\bin\Debug\EJE1.exe
+C:\Users\gymena\Documents\SharpDevelop Projects\EJE1\EJE1\bin\Debug\EJE1.pdb
+C:\Users\gymena\Documents\SharpDevelop Projects\EJE1\EJE1\obj\Debug\EJE1.exe
+C:\Users\gymena\Documents\SharpDevelop Projects\EJE1\EJE1\obj\Debug\EJE1.pdb
